@@ -7,7 +7,10 @@ The dataset may be considered trustworthy since it comes from an official city g
 
 
 ## Analysis
+### Cleaning the Data
+After uploading the dataset to Google Sheets, I began to clean the data by eliminating columns of data that were not needed, such as city, state, fun facts and date loaded. I also filter through the remaining data and note that some films having missing information. 
 
+### What locations are most filmed? 
 
 ## Conclusion
 
