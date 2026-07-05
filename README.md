@@ -1,5 +1,5 @@
 # San Francisco on the Big Screen 
-
+Have you been out of the Bay Area for a little too long and are feeling a little homesick? Are you missing the iconic view of the Golden Gate Bridge? Do not fret! The beautiful city of San Francisco has been immortalized in countless films and television productions. This project explores where filmakers have chosen to capture the city and how those choices have changed over time. 
 
 ## About the Dataset
 The dataset used in the analysis was downloaded from San Francisco Open Data Portal with the title Film Locations in San Francisco. Data was provided by the San Francisco Film Commission, which promotes and supports film and television production within the city. The dataset was initially created in November 2011 and most recently updated earlier this year in February. 
