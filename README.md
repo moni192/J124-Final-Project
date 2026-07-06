@@ -6,7 +6,7 @@ The dataset can generally be considered trustworthy because it comes from an off
 
 ## Analysis 
 ### Cleaning the Data 
-After uploading the dataset to Google Sheets, I began to clean the data by eliminating columns of data that were not needed, such as city, state, fun facts and date loaded. I also filtered through the remaining data and removed films that did not state location or coordinates. 
+After uploading the dataset to Google Sheets, I began to clean the data by eliminating columns of data that were not needed, such as city, state, fun facts and date loaded. I also filtered through the remaining data and made a note that some productions were missing information. 
 
 ### What locations are most filmed? 
 ![A map of San Francisco with diamonds plotted in locations where filming occurred. Majority of the diamonds are located in the notheastern part of San Francisco](film_location_concen.png) 
@@ -26,7 +26,7 @@ To examine how film production has changed over time, I grouped movies by their 
 The dataset was analyzed using [Google Sheets](https://docs.google.com/spreadsheets/d/1D2fEGkt7JvPL1qTGEok-VtGSCBO9yq-tU7hJLBWcHus/edit?usp=sharing). After cleaning the data, I used pivot tables to summarize filming locations and release decades. The map was created in Datawrapper using the latitude and longitude coordinates, and the bar charts were created in [Google Sheets](https://docs.google.com/spreadsheets/d/1D2fEGkt7JvPL1qTGEok-VtGSCBO9yq-tU7hJLBWcHus/edit?usp=sharing). 
 
 ### Limitations 
-This dataset only includes productions documented by the San Francisco Film Commission and may not include every film or television production filmed in the city. This is an issue that may be occurring most with older films. Additionally, films with multiple filming locations appear multiple times in the dataset, so the data reflects filming locations rather than the number of scenes or the amount of screen time at each location. 
+This dataset only includes productions documented by the San Francisco Film Commission and may not include every film or television production filmed in the city. This is an issue that may be occurring most with older films. There are also films included that are not fully documented and are missing information. Additionally, films with multiple filming locations appear multiple times in the dataset, so the data reflects filming locations rather than the number of scenes or the amount of screen time at each location. 
 
 ## Conclusion 
 San Francisco has served as the backdrop for hundreds of films and television productions, with filming concentrated around the city's most recognizable landmarks. The Golden Gate Bridge, City Hall, and Coit Tower are among the locations filmmakers return to most often, helping establish San Francisco's identity on screen. The analysis also shows that the number of productions represented in the dataset has generally increased over time, particularly since the 1970s. While the dataset provides valuable insight into filming trends, it does not include every production filmed in San Francisco or explain why certain locations were selected. Additional reporting, such as interviews with the San Francisco Film Commission or local filmmakers, would help provide greater context about the city's role in the film industry and the impact of productions on local communities. With all that said, if you're ever missing home, Hollywood may provide a little comfort by showcasing some of San Francisco's most iconic landmarks on the big screen.
