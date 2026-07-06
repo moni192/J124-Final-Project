@@ -11,15 +11,18 @@ After uploading the dataset to Google Sheets, I began to clean the data by elimi
 ### What locations are most filmed? 
 ![A map of San Francisco with diamonds plotted in locations where filming occurred. Majority of the diamonds are located in the notheastern part of San Francisco](film_location_concen.png) 
 **FIGURE 1.** A map of San Francisco with diamonds plotted in locations where filming occurred
+
 The map above shows where filming locations are concentrated throughout San Francisco. Most filming activities occurred in the northeastern part of the city, near well-known landmarks like Pier 39 and Coit Tower. While the map reveals where filming is concentrated, it does not identify the specific locations that filmmakers use most often. To identify these landmarks, I created a bar chart to show the five most frequently used filming locations. 
 ![A bar chart showing that the top 5 locations are: Golden Gate Bridge, City Hall, Fairmont Hotel (950 Mason Street, Nob Hill), Treasure Island, Coit Tower.](most_freq_loc.png) 
 **FIGURE 2.** A bar chart showing that the top 5 filmed locations
+
 It comes as no surprise that at the top of the list is the iconic Golden Gate Bridge. Following it is City Hall, the Fairmont Hotel, Treasure Island, and Coit Tower. All of these locations are strongly associated with the city. 
 
 ### When was filming in San Francisco most popular? 
 ![A bar chart showing number of films per decade.](films_per_decade.png) 
 
 **FIGURE 3.** A bar chart comparing number of films per decade
+
 To examine how film production has changed over time, I grouped movies by their release decade. The results show that the number of productions increased substantially beginning in the 1970s, having its first peak in the 1990s, and the latest peak in the 2010s. 
 
 ### Methods 
