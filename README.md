@@ -11,6 +11,11 @@ The dataset may be considered trustworthy since it comes from an official city g
 After uploading the dataset to Google Sheets, I began to clean the data by eliminating columns of data that were not needed, such as city, state, fun facts and date loaded. I also filter through the remaining data and note that some films having missing information. 
 
 ### What locations are most filmed? 
+![A map of San Francisco with diamonds plotted in locations where filming occurred. Majority of the diamonds are located in the notheastern part of San Francisco](film_location_concen.png)
+As shown in the Datawrapper plot, a lot of filming occurs in the north-east of the city, near infamous landmarks like Pier 39 and Coit Tower. 
+
+To gain a better understanding of what landmarks are preferred by the film industry... 
+![A horizontal bar chart showing that the top 10 locations are: Golden Gate Bridge, City Hall, Fairmont Hotel (950 Mason Street, Nob Hill), Treasure Island, Coit Tower, Palace of Fine Arts (3301 Lyon Street), St. Peter & Paul's Church (666 Filbert Street, Washington Square), Chinatown, Golden Gate Park, Bay Bridge](film_location_concen.png)
 
 ## Conclusion
 
