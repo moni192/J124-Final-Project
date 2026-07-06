@@ -23,7 +23,7 @@ It comes as no surprise that at the top of the list is the iconic Golden Gate Br
 To examine how film production has changed over time, I grouped movies by their release decade. The results show that the number of productions increased substantially beginning in the 1970s, having its first peak in the 1990s, and the latest peak in the 2010s. 
 
 ### Methods 
-The dataset was analyzed using Google Sheets. After cleaning the data, I used pivot tables to summarize filming locations and release decades. The map was created in Datawrapper using the latitude and longitude coordinates, and the bar charts were created in Google Sheets. 
+The dataset was analyzed using [Google Sheets](https://docs.google.com/spreadsheets/d/1D2fEGkt7JvPL1qTGEok-VtGSCBO9yq-tU7hJLBWcHus/edit?usp=sharing). After cleaning the data, I used pivot tables to summarize filming locations and release decades. The map was created in Datawrapper using the latitude and longitude coordinates, and the bar charts were created in [Google Sheets](https://docs.google.com/spreadsheets/d/1D2fEGkt7JvPL1qTGEok-VtGSCBO9yq-tU7hJLBWcHus/edit?usp=sharing). 
 
 ### Limitations 
 This dataset only includes productions documented by the San Francisco Film Commission and may not include every film or television production filmed in the city. This is an issue that may be occurring most with older films. Additionally, films with multiple filming locations appear multiple times in the dataset, so the data reflects filming locations rather than the number of scenes or the amount of screen time at each location. 
